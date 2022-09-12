@@ -4,7 +4,7 @@ I am Ornella. I am a software engineer. I was born in NYC and I am French and Bu
 
 - 🔭 My day job is working on Disney+ at Disney Streaming Services
 - 💬 I often code projects that have social impact or disseminate information
-- 🌱 I’m really curious about smart cities and impactful software
+- 🌱 I’m really curious about smart cities and urban planning
 - 🤔 I’m looking for help with ornellember
 - 📫 How to reach me: on here or via telepathy
 - 😄 Pronouns: she/her or they/them
